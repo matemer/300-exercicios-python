@@ -1,4 +1,4 @@
-'''2 - Realize a importação da biblioteca Numpy, em seguida exiba em tela a versão da biblioteca instalada em seu
+''''2 - Realize a importação da biblioteca Numpy, em seguida exiba em tela a versão da biblioteca instalada em seu
 ambiente virtualizado'''
 
 import numpy as np
